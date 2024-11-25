@@ -1,0 +1,88 @@
+.navbar {
+    background-color: transparent;
+    padding: 10px;
+    display: flex;
+  }
+  
+  .navbar .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    margin-left: 120px;
+  }
+  
+  .navbar-content ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    margin-left: 500px;
+    gap: 20px;
+  }
+  
+  .navbar-content ul li {
+    position: relative;
+    margin-left: 10px;
+  }
+  
+  .navbar-content ul li {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+  }
+
+
+  
+
+
+  
+/* 
+  .navbar{
+    display: flex;
+    background-color: transparent;
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    margin-left: 60px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.navbar-content ul{
+    display: flex;
+    margin-left: 500px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+.navbar-content ul li:hover a { color: #007bff; Change text color on hover }
+
+
+/* .navbar-content ul li::before{
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #7b3838;
+    transition: .3s;
+
+}
+
+.navbar-content ul li:hover::before{
+    width: 100%;
+} */
+   
