@@ -4,7 +4,7 @@ const homeLinks =
     [
         {
             title: "Deena-Earth Movers",
-            contact: 9080041163,
+            contact: 90841163,
             Email: "mailto:gokul142003@gmail.com"
         }
     ]
