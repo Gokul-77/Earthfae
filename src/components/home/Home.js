@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
-import leftImage from 'assets/home1.jpeg'; // Replace with your actual image path
-import rightImage from 'assets/home2.jpg'; // Replace with your actual image path
+import leftImage from '../images/home1.jpeg'; // Replace with your actual image path
+import rightImage from '../images/home2.jpg'; // Replace with your actual image path
 
 const Home = () => {
   return (
